@@ -1,0 +1,58 @@
+{
+    "name": "Screen Scraper",
+    "description": "Web Data Extraction",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/screen-scraper.png",
+    "tags": [
+        "have api",
+        "profile",
+        "scraping",
+        "scraping tools"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/screen-scraper\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Screen Scraper",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/screen-scraper.png",
+            "humanURL": "http:\/\/screen-scraper.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/screen-scraper-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/screen-scraper-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.screen-scraper.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/screen-scrapeable"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/screen-scraper"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/community.screen-scraper.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/screen-scraper.com\/"
+        }
+    ]
+}
